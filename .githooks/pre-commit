@@ -2,28 +2,59 @@
 set -euo pipefail
 
 repo_root="$(git rev-parse --show-toplevel)"
-meta_file="$repo_root/adhkaar/adhkaar_meta.json"
+adhkaar_meta_file="$repo_root/adhkaar/adhkaar_meta.json"
+translations_meta_file="$repo_root/translations/translations_meta.json"
 
-if ! git diff --cached --name-only | grep -qx "adhkaar/adhkaar.json"; then
-    exit 0
-fi
-
-current_version="0"
-if [ -f "$meta_file" ]; then
-    extracted_version="$(grep -Eo '"version"[[:space:]]*:[[:space:]]*[0-9]+' "$meta_file" | head -n1 | grep -Eo '[0-9]+' || true)"
-    if [ -n "$extracted_version" ]; then
-        current_version="$extracted_version"
+if git diff --cached --name-only | grep -qx "adhkaar/adhkaar.json"; then
+    current_version="0"
+    if [ -f "$adhkaar_meta_file" ]; then
+        extracted_version="$(grep -Eo '"version"[[:space:]]*:[[:space:]]*[0-9]+' "$adhkaar_meta_file" | head -n1 | grep -Eo '[0-9]+' || true)"
+        if [ -n "$extracted_version" ]; then
+            current_version="$extracted_version"
+        fi
     fi
-fi
 
-next_version="$((current_version + 1))"
-updated_at="$(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+    next_version="$((current_version + 1))"
+    updated_at="$(date -u +"%Y-%m-%dT%H:%M:%SZ")"
 
-cat > "$meta_file" <<JSON
+    cat > "$adhkaar_meta_file" <<JSON
 {
   "version": $next_version,
   "updated_at": "$updated_at"
 }
 JSON
 
-git add "$meta_file"
+    git add "$adhkaar_meta_file"
+fi
+
+changed_translation_zips="$(git diff --cached --name-only --diff-filter=ACMR | grep -E '^translations/.+\.zip$' || true)"
+if [ -n "$changed_translation_zips" ]; then
+    if [ ! -f "$translations_meta_file" ]; then
+        printf '[]\n' > "$translations_meta_file"
+    fi
+
+    while IFS= read -r zip_path; do
+        if [ -z "$zip_path" ]; then
+            continue
+        fi
+
+        key="$(basename "$zip_path" .zip)"
+        current_version="$(jq -r --arg key "$key" 'map(select(.key == $key))[0].version // 0' "$translations_meta_file")"
+        if ! [[ "$current_version" =~ ^[0-9]+$ ]]; then
+            current_version="0"
+        fi
+
+        next_version="$((current_version + 1))"
+        updated_at="$(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+        tmp_file="$(mktemp)"
+
+        jq --arg key "$key" --argjson version "$next_version" --arg updated_at "$updated_at" '
+            (map(select(.key != $key)) + [{key: $key, version: $version, updated_at: $updated_at}])
+            | sort_by(.key)
+        ' "$translations_meta_file" > "$tmp_file"
+
+        mv "$tmp_file" "$translations_meta_file"
+    done <<< "$changed_translation_zips"
+
+    git add "$translations_meta_file"
+fi
