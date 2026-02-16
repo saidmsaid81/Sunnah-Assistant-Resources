@@ -514,6 +514,7 @@
     "language": "ar",
     "item_translation": "لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ, لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ [ثلاثاً], اللَّهُمَّ لاَ مَانِعَ لِمَا أَعْطَيْتَ, وَلاَ مُعْطِيَ لِمَا مَنَعْتَ, وَلاَ يَنْفَعُ ذَا الْجَدِّ مِنْكَ الجَدُّ",
     "chapter_id": 25,
+    "item_order": 3,
     "reference": "البخاري، ١/ ٢٥٥، برقم ٨٤٤، ومسلم، ١/ ٤١٤، برقم ٥٩٣، وما بين المعقوفين زيادة من البخاري، برقم ٦٤٧٣."
   },
   {
@@ -522,6 +523,7 @@
     "language": "ar",
     "item_translation": "لَا إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ, لَهُ الْمُلْكُ, وَلَهُ الْحَمدُ, وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ. لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللَّهِ, لاَ إِلَهَ إِلاَّ اللَّهُ, وَلاَ نَعْبُدُ إِلاَّ إِيَّاهُ, لَهُ النِّعْمَةُ وَلَهُ الْفَضْلُ وَلَهُ الثَّنَاءُ الْحَسَنُ, لَا إِلَهَ إِلاَّ اللَّهُ مُخْلِصِينَ لَهُ الدِّينَ وَلَوْ كَرِهَ الكَافِرُونَ",
     "chapter_id": 25,
+    "item_order": 4,
     "reference": "مسلم، ١/ ٤١٥ برقم ٥٩٤."
   },
   {
@@ -530,6 +532,7 @@
     "language": "ar",
     "item_translation": "بسم الله الرَّحْمَنِ الرَّحِيمِ ﴿قُلْ هُوَ اللَّهُ أَحَدٌ* اللَّهُ الصَّمَدُ* لَمْ يَلِدْ وَلَمْ يُولَدْ* وَلَمْ يَكُن لَّهُ كُفُواً أَحَدٌ﴾\r\nبسم الله الرَّحْمَنِ الرَّحِيمِ ﴿قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ* مِن شَرِّ مَا خَلَقَ* وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ* وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ* وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ﴾\r\nبسم الله الرَّحْمَنِ الرَّحِيمِ ﴿قُلْ أَعُوذُ بِرَبِّ النَّاسِ* مَلِكِ النَّاسِ* إِلَهِ النَّاسِ* مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ* الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ* مِنَ الْجِنَّةِ وَ النَّاسِ﴾\r\n(بَعْدَ كُلِّ صَلاَةٍ)",
     "chapter_id": 25,
+    "item_order": 9,
     "reference": "أبو داود، ٢/ ٨٦، برقم ١٥٢٣، والترمذي، برقم ٢٩٠٣، والنسائي، ٣/ ٦٨، برقم ١٣٣٥، وانظر: صحيح الترمذي، ٢/٨. والسور الثلاث يقال لها: المعوذات. انظر: فتح الباري، ٩/ ٦٢."
   },
   {
@@ -538,6 +541,7 @@
     "language": "ar",
     "item_translation": "اللَّهُ لاَ إِلَهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ لاَ تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ لَّهُ مَا فِي السَّمَوَاتِ وَمَا فِي الأَرْضِ مَن ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلاَ يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلاَّ بِمَا شَاءَ وَسِعَ كُرْسِيُّهُ السَّمَوَاتِ وَالأَرْضَ وَلاَ يَؤُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ (عَقِبَ كلِّ صَلاَةٍ)",
     "chapter_id": 25,
+    "item_order": 10,
     "reference": "من قرأها دبر كل صلاة لم يمنعه من دخول الجنة إلا أن يموت. النسائي في عمل اليوم والليلة، برقم ١٠٠، وابن السني، برقم، ١٢١، وصححه الألباني في صحيح الجامع، ٥/٣٣٩، وسلسلة الأحاديث الصحيحة، ٢/٦٩٧، برقم ٩٧٢، والآية رقم ٢٥٥ من سورة البقرة."
   },
   {
@@ -546,6 +550,7 @@
     "language": "ar",
     "item_translation": "لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ, لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِي وَيُمِيتُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
     "chapter_id": 25,
+    "item_order": 11,
     "reference": "رواه الترمذي، ٥/ ٥١٥، برقم ٣٤٧٤، وأحمد، ٤/ ٢٢٧، برقم ١٧٩٩٠، وانظر تخريجه في: زاد المعاد ١/٣٠٠ ."
   },
   {
@@ -554,6 +559,7 @@
     "language": "ar",
     "item_translation": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْماً نافِعاً, وَرِزْقاً طَيِّباً, وَعَمَلاً مُتَقَبَّلاً (بعد السلام من صلاة الفجر)",
     "chapter_id": 25,
+    "item_order": 12,
     "reference": "ابن ماجه، برقم ٩٢٥، والنسائي في عمل اليوم والليلة، برقم ١٠٢، وانظر: صحيح ابن ماجه، ١/١٥٢، ومجمع الزوائد ١٠/١١١، وسيأتي برقم ٩٥."
   },
   {
@@ -2767,6 +2773,7 @@
     "language": "en",
     "item_translation": "None has the right to be worshiped but Allah alone, He has no partner, His is the dominion and His is the praise, and He is Able to do all things. O Allah, there is none who can withhold what You give, and none may give what You have withheld; and the might of the mighty person cannot benefit him against You.",
     "chapter_id": 25,
+    "item_order": 3,
     "reference": "Al-Bukhari 1/255, Muslim 1/414."
   },
   {
@@ -2775,6 +2782,7 @@
     "language": "en",
     "item_translation": "None has the right to be worshiped but Allah alone, He has no partner, His is the dominion and His is the praise and He is Able to do all things. There is no power and no might except by Allah. None has the right to be worshiped but Allah, and we do not worship any other besides Him. His is grace, and His is bounty and to Him belongs the most excellent praise. None has the right to be worshiped but Allah. (We are) sincere in making our religious devotion to Him, even though the disbelievers may dislike it.",
     "chapter_id": 25,
+    "item_order": 4,
     "reference": "Muslim 1/415."
   },
   {
@@ -2783,6 +2791,7 @@
     "language": "en",
     "item_translation": "Recite Al-Ikhlas, Al-Falaq and An-Nas",
     "chapter_id": 25,
+    "item_order": 9,
     "reference": "Al-Ikhlas:1-4, Al-Falaq:1-5, An-Nas:1-6."
   },
   {
@@ -2791,6 +2800,7 @@
     "language": "en",
     "item_translation": "Allah! There is none worthy of worship but He, the Ever Living, the One Who sustains and protects all that exists. Neither slumber nor sleep overtakes Him. To Him belongs whatever is in the heavens and whatever is on the earth. Who is he that can intercede with Him except with His Permission? He knows what happens to them in this world, and what will happen to them in the Hereafter. And they will never compass anything of His Knowledge except that which He wills. His Throne extends over the heavens and the earth, and He feels no fatigue in guarding and preserving them. And He is the Most High, the Most Great.",
     "chapter_id": 25,
+    "item_order": 10,
     "reference": "An-Nasa'i (Hadith no. 100), Ibn As-Sunni (Hadith no. 121,Sahihul-Jami' As-Saghir 5/339, Silsilatul al-Ahadith as-Sahihah 2/697."
   },
   {
@@ -2799,6 +2809,7 @@
     "language": "en",
     "item_translation": "None has the right to be worshiped but Allah alone, Who has no partner. His is the dominion and His is the praise. He brings life and He causes death, and He is Able to do all things. (Ten times after the Maghrib and Fajr prayers.)",
     "chapter_id": 25,
+    "item_order": 11,
     "reference": "At-Tirmizi 5/515, Ahmad 4/227, Zadul-Ma'ad 1/300."
   },
   {
@@ -2807,6 +2818,7 @@
     "language": "en",
     "item_translation": "O Allah, I ask You for knowledge that is of benefit, a good provision, and deeds that will be accepted. (Recite after the Fajr prayer.)",
     "chapter_id": 25,
+    "item_order": 12,
     "reference": "Ibn Majah, Sahih Ibn Majah 1/152, Majma' az-Zawaid 10/111."
   },
   {
@@ -4723,6 +4735,7 @@
     "language": "ar",
     "item_translation": "أَسْتَغْفِرُ اللَّهَ (ثَلاَثَاً)",
     "chapter_id": 25,
+    "item_order": 1,
     "reference": "مسلم، ١/ ٤١٤، رقم ٥٩١."
   },
   {
@@ -4731,6 +4744,7 @@
     "language": "ar",
     "item_translation": "اللَّهُمَّ أَنْتَ السَّلاَمُ, وَمِنْكَ السَّلاَمُ, تَبَارَكْتَ يَا ذَا الْجَلاَلِ وَالْإِكْرَامِ",
     "chapter_id": 25,
+    "item_order": 2,
     "reference": "مسلم، ١/ ٤١٤، رقم ٥٩١."
   },
   {
@@ -4739,6 +4753,7 @@
     "language": "en",
     "item_translation": "I seek the forgiveness of Allah. (Three times)O Allah, You are Peace and from You comes peace. Blessed are You, O Owner of majesty and honor.(2)",
     "chapter_id": 25,
+    "item_order": 1,
     "reference": "Muslim 1/414."
   },
   {
@@ -4747,6 +4762,7 @@
     "language": "en",
     "item_translation": "O Allah, You are Peace and from You comes peace. Blessed are You, O Owner of majesty and honor",
     "chapter_id": 25,
+    "item_order": 2,
     "reference": "Muslim 1/414."
   },
   {
@@ -4755,6 +4771,7 @@
     "language": "ar",
     "item_translation": "سُبْحَانَ اللَّهِ(ثلاثاً وثلاثين)ٌ",
     "chapter_id": 25,
+    "item_order": 5,
     "reference": "مسلم، ١/ ٤١٨، برقم ٥٩٧، وفيه: ((من قال ذلك دبر كل صلاة غفرت خطاياه وإن كانت مثل زبد البحر))."
   },
   {
@@ -4763,6 +4780,7 @@
     "language": "ar",
     "item_translation": "َالْحَمْدُ لِلَّهُِ (ثلاثاً وثلاثين)ٌ",
     "chapter_id": 25,
+    "item_order": 6,
     "reference": "مسلم، ١/ ٤١٨، برقم ٥٩٧، وفيه: ((من قال ذلك دبر كل صلاة غفرت خطاياه وإن كانت مثل زبد البحر))."
   },
   {
@@ -4771,6 +4789,7 @@
     "language": "ar",
     "item_translation": "اللَّهُ أَكْبَرُ (ثلاثاً وثلاثين)ٌ",
     "chapter_id": 25,
+    "item_order": 7,
     "reference": "مسلم، ١/ ٤١٨، برقم ٥٩٧، وفيه: ((من قال ذلك دبر كل صلاة غفرت خطاياه وإن كانت مثل زبد البحر))."
   },
   {
@@ -4779,6 +4798,7 @@
     "language": "ar",
     "item_translation": "لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ, لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
     "chapter_id": 25,
+    "item_order": 8,
     "reference": "مسلم، ١/ ٤١٨، برقم ٥٩٧، وفيه: ((من قال ذلك دبر كل صلاة غفرت خطاياه وإن كانت مثل زبد البحر))."
   },
   {
@@ -4787,6 +4807,7 @@
     "language": "en",
     "item_translation": "Glory is to Allah (Thirty-Three times)",
     "chapter_id": 25,
+    "item_order": 5,
     "reference": "Muslim 1/418. Whoever says this after every prayer will be forgiven his sins even though they be as the foam of the sea"
   },
   {
@@ -4795,6 +4816,7 @@
     "language": "en",
     "item_translation": "Praise is to Allah (Thirty-Three times)",
     "chapter_id": 25,
+    "item_order": 6,
     "reference": "Muslim 1/418. Whoever says this after every prayer will be forgiven his sins even though they be as the foam of the sea"
   },
   {
@@ -4803,6 +4825,7 @@
     "language": "en",
     "item_translation": "Allah is the Most Great. (Thirty-Three times)",
     "chapter_id": 25,
+    "item_order": 7,
     "reference": "Muslim 1/418. Whoever says this after every prayer will be forgiven his sins even though they be as the foam of the sea"
   },
   {
@@ -4811,6 +4834,7 @@
     "language": "en",
     "item_translation": "None has the right to be worshiped but Allah alone, He has no partner, His is the dominion and His is the praise and He is Able to do all things.",
     "chapter_id": 25,
+    "item_order": 8,
     "reference": "Muslim 1/418. Whoever says this after every prayer will be forgiven his sins even though they be as the foam of the sea"
   },
   {
