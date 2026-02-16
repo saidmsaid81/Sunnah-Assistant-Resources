@@ -147,7 +147,7 @@
     "_id": 307,
     "item_id": 20,
     "language": "ar",
-    "item_translation": "يَبْدَأُ بِرِجْلِهِ الْيُمْنَى, وَيَقُولُ: أَعُوذُ بِاللَّهِ العَظِيمِ, وَبِوَجْهِهِ الْكَرِيمِ, وَسُلْطَانِهِ الْقَدِيمِ, مِنَ الشَّيْطَانِ الرَّجِيمِ. [بِسْمِ اللَّهِ, وَالصَّلَاةُ] [وَالسَّلَامُ عَلَى رَسُولِ اللَّهِ] اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+    "item_translation": "(يَبْدَأُ بِرِجْلِهِ الْيُمْنَى, وَيَقُولُ:) أَعُوذُ بِاللَّهِ العَظِيمِ, وَبِوَجْهِهِ الْكَرِيمِ, وَسُلْطَانِهِ الْقَدِيمِ, مِنَ الشَّيْطَانِ الرَّجِيمِ. [بِسْمِ اللَّهِ, وَالصَّلَاةُ] [وَالسَّلَامُ عَلَى رَسُولِ اللَّهِ] اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
     "chapter_id": 13,
     "reference": "لقول أنس بن مالك رضي الله عنه: ((من السنة إذ دخلت المسجد أن تَبدأ برجلك اليمنى، وإذا خرجت أن تبدأ برجلك اليسرى))، أخرجه الحاكم، ١/ ٢١٨، وصححه على شرط مسلم، ووافقه الذهبي، وأخرجه البيهقي، ٢/ ٤٤٢، وحسنه الألباني في سلسلة الأحاديث الصحيحة، ٥/ ٦٢٤، برقم ٢٤٧٨.\r\nأبو داود، برقم ٤٦٦، وانظر: صحيح الجامع، برقم ٤٥٩١ .\r\nرواه ابن السني، برقم ٨٨، وحسنه الألباني في الثمر المستطاب، ص ٦٠٧.\r\nأبو داود، ١/ ١٢٦، برقم ٤٦٥، وانظر: صحيح الجامع، ١/٥٢٨ .\r\nمسلم، ١/ ٤٩٤، برقم ٧١٣، وفي سنن ابن ماجه من حديث فاطمة ’:((اللهم اغفر لي ذنوبي،وافتح لي أبواب رحمتك))، وصححه الألباني لشواهده. انظر: صحيح ابن ماجه، ١/١٢٨-١٢٩."
   },
@@ -155,7 +155,7 @@
     "_id": 308,
     "item_id": 21,
     "language": "ar",
-    "item_translation": "يَبْدَأُ بِرِجْلِهِ الْيُسْرَى, وَيَقُولُ: بِسْمِ اللَّهِ وَالصّلَاةُ وَالسَّلَامُ عَلَى رَسُولِ اللَّهِ, اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِك, اللَّهُمَّ اعْصِمْنِي مِنَ الشَّيْطَانِ الرَّجِيمِ",
+    "item_translation": "(يَبْدَأُ بِرِجْلِهِ الْيُسْرَى, وَيَقُولُ:) بِسْمِ اللَّهِ وَالصّلَاةُ وَالسَّلَامُ عَلَى رَسُولِ اللَّهِ, اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِك, اللَّهُمَّ اعْصِمْنِي مِنَ الشَّيْطَانِ الرَّجِيمِ",
     "chapter_id": 14,
     "reference": "الحاكم، ١/ ٢١٨، والبيهقي، ٢/ ٤٤٢، وحسنه الألباني في سلسلة الأحاديث الصحيحة، ٥/ ٦٢٤، برقم ٢٤٧٨، وتقدم تخريجه.\r\nانظر تخريج روايات الحديث السابق في دعاء دخول المسجد، رقم (٢٠) وزيادة: ((اللهم اعصمني من الشيطان الرجيم)) لابن ماجه. انظر: صحيح ابن ماجه، ١/١٢٩ ."
   },
@@ -205,6 +205,7 @@
     "language": "ar",
     "item_translation": "اللَّهُمَّ بَاعِدْ بَيْنِي وَبَيْنَ خَطَايَايَ كَمَا بَاعَدْتَ بَيْنَ الْمَشْرِقِ وَالْمَغْرِبِ, اللَّهُمَّ نَقِّنِي مِنْ خَطَايَايَ كَمَا يُنَقَّى الثَّوْبُ الْأَبْيَضُ مِنَ الدَّنَسِ, اللَّهُمَّ اغْسِلْني مِنْ خَطَايَايَ, بِالثَّلْجِ وَالْماءِ وَالْبَرَدِ",
     "chapter_id": 16,
+    "item_order": 1,
     "reference": "البخاري، ١/ ١٨١، برقم ٧٤٤، ومسلم، ١/ ٤١٩، برقم ٥٩٨."
   },
   {
@@ -213,6 +214,7 @@
     "language": "ar",
     "item_translation": "سُبْحانَكَ اللَّهُمَّ وَبِحَمْدِكَ, وَتَبارَكَ اسْمُكَ, وَتَعَالَى جَدُّكَ, وَلاَ إِلَهَ غَيْرُكَ",
     "chapter_id": 16,
+    "item_order": 2,
     "reference": "مسلم، برقم ٣٩٩، وأصحاب السنن الأربعة: أبو داود، برقم ٧٧٥، والترمذي، برقم ٢٤٣، وابن ماجه، برقم ٨٠٦، والنسائي، برقم ٨٩٩، وانظر: صحيح الترمذي،١/٧٧،وصحيح ابن ماجه، ١/١٣٥."
   },
   {
@@ -221,6 +223,7 @@
     "language": "ar",
     "item_translation": "وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَوَاتِ وَالأَرْضَ حَنِيفَاً وَمَا أَنَا مِنَ الْمُشْرِكِينَ, إِنَّ صَلاَتِي, وَنُسُكِي, وَمَحْيَايَ, وَمَمَاتِي لِلَّهِ رَبِّ الْعَالَمِينَ, لاَ شَرِيكَ لَهُ وَبِذَلِكَ أُمِرْتُ وَأَنَا مِنَ الْمُسْلِمِينَ. اللَّهُمَّ أَنْتَ المَلِكُ لاَ إِلَهَ إِلاَّ أَنْتَ, أَنْتَ رَبِّي وَأَنَا عَبْدُكَ, ظَلَمْتُ نَفْسِي وَاعْتَرَفْتُ بِذَنْبِي فَاغْفِرْ لِي ذُنُوبي جَمِيعَاً إِنَّهُ لاَ يَغْفِرُ الذُّنوبَ إِلاَّ أَنْتَ. وَاهْدِنِي لِأَحْسَنِ الأَخْلاقِ لاَ يَهْدِي لِأَحْسَنِها إِلاَّ أَنْتَ, وَاصْرِفْ عَنِّي سَيِّئَهَا, لاَ يَصْرِفُ عَنِّي سَيِّئَهَا إِلاَّ أَنْتَ, لَبَّيْكَ وَسَعْدَيْكَ, وَالخَيْرُ كُلُّهُ بِيَدَيْكَ, وَالشَّرُّ لَيْسَ إِلَيْكَ, أَنَا بِكَ وَإِلَيْكَ, تَبارَكْتَ وَتَعَالَيْتَ, أَسْتَغْفِرُكَ وَأَتوبُ إِلَيْكَ",
     "chapter_id": 16,
+    "item_order": 3,
     "reference": "أخرجه مسلم، ١/ ٥٣٤، برقم ٧٧١."
   },
   {
@@ -229,6 +232,7 @@
     "language": "ar",
     "item_translation": "اللَّهُمَّ رَبَّ جِبْرَائِيلَ, وَمِيْكَائِيلَ, وَإِسْرَافِيلَ, فَاطِرَ السَّمَوَاتِ وَالأَرْضِ, عَالِمَ الغَيْبِ وَالشَّهَادَةِ أَنْتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ. اهْدِنِي لِمَا اخْتُلِفَ فِيهِ مِنَ الْحَقِّ بِإِذْنِكَ إِنَّكَ تَهْدِي مَنْ تَشَاءُ إِلَى صِرَاطٍ مُسْتَقيمٍ",
     "chapter_id": 16,
+    "item_order": 4,
     "reference": "أخرجه مسلم، ١/ ٥٣٤، برقم ٧٧٠ ."
   },
   {
@@ -237,6 +241,7 @@
     "language": "ar",
     "item_translation": "اللَّهُمَّ لَكَ الْحَمْدُ, أَنْتَ نُورُ السَّمَوَاتِ وَالأَرْضِ وَمَنْ فِيهِنَّ, وَلَكَ الْحَمْدُ أَنْتَ قَيِّمُ السَّمَوَاتِ وَالأَرْضِ وَمَنْ فِيهِنَّ, [وَلَكَ الْحَمْدُ أَنْتَ رَبُّ السَّمَواتِ وَالأَرْضِ وَمَنْ فِيهِنَّ] [وَلَكَ الْحَمْدُ لَكَ مُلْكُ السَّمَوَاتِ وَالأَرْضِ وَمَنْ فِيهِنَّ] [وَلَكَ الْحَمْدُ أَنْتَ مَلِكُ السَّمَوَاتِ وَالأَرْضِ] [وَلَكَ الْحَمْدُ] [أَنْتَ الْحَقُّ, وَوَعْدُكَ الْحَقُّ, وَقَوْلُكَ الْحَقُّ, وَلِقاؤُكَ الْحَقُّ, وَالْجَنَّةُ حَقٌّ, وَالنَّارُ حَقٌّ, وَالنَّبِيُّونَ حَقٌّ, وَمحَمَّدٌ صلى الله عليه وسلم حَقٌّ, وَالسّاعَةُ حَقٌّ] [اللَّهُمَّ لَكَ أَسْلَمتُ, وَعَلَيْكَ تَوَكَّلْتُ, وَبِكَ آمَنْتُ, وَإِلَيْكَ أَنَبْتُ, وَبِكَ خاصَمْتُ, وَإِلَيْكَ حاكَمْتُ. فَاغْفِرْ لِي مَا قَدَّمْتُ, وَمَا أَخَّرْتُ, وَمَا أَسْرَرْتُ, وَمَا أَعْلَنْتُ] [أَنْتَ المُقَدِّمُ, وَأَنْتَ المُؤَخِّرُ لاَ إِلَهَ إِلاَّ أَنْتَ] [أَنْتَ إِلَهِي لاَ إِلَهَ إِلاَّ أَنْتَ]",
     "chapter_id": 16,
+    "item_order": 7,
     "reference": "كان النبي صلى الله عليه وسلم يقوله إذا قام من الليل يتهجد.\r\nالبخاري مع الفتح، ٣/ ٣، و١١/ ١١٦، و١٣/ ٣٧١، ٤٢٣، ٤٦٥،، برقم ١١٢٠، ورقم ٦٣١٧، ورقم ٧٣٨٥، ورقم ٧٤٤٢، ورقم ٧٤٩٩، ومسلم مختصراً بنحوه، ١/ ٥٣٢، برقم ٧٦٩."
   },
   {
@@ -2453,6 +2458,7 @@
     "language": "en",
     "item_translation": "O Allah, separate me from my sins as You have separated the East from the West. O Allah, cleanse me of my transgressions as the white garment is cleansed of stains. O Allah, wash away my sins with ice and water and frost.",
     "chapter_id": 16,
+    "item_order": 1,
     "reference": "Al-Bukhari 1/181, Muslim 1/419."
   },
   {
@@ -2461,6 +2467,7 @@
     "language": "en",
     "item_translation": "Glory is to You O Allah, and praise. Blessed is Your Name and Exalted is Your Majesty. There is none worthy of worship but You.",
     "chapter_id": 16,
+    "item_order": 2,
     "reference": "Abu Dawud, Ibn Majah, An-Nasa'i, At-Tirmizi, Al-Albani, Sahih At-Tirmizi 1/77, Sahih Ibn Majah 1/135."
   },
   {
@@ -2469,6 +2476,7 @@
     "language": "en",
     "item_translation": "I have turned my face sincerely towards He who has brought forth the heavens and the Earth and I am not of those who associate (others with Allah). Indeed my prayer, my sacrifice, my life and my death are for Allah, Lord of the worlds, no partner has He, with this I am commanded and I am of the Muslims. O Allah, You are the Sovereign, none has the right to be worshiped except You. You are my Lord and I am Your servant, I have wronged my own soul and have acknowledged my sin, so forgive me all my sins for no one forgives sins except You. Guide me to the best of characters for none can guide to it other than You, and deliver me from the worst of characters for none can deliver me from it other than You. Here I am, in answer to Your call, happy to serve you. All good is within Your hands and evil does not stem from You. I exist by your will and will return to you. Blessed and High are You, I seek Your forgiveness and repent unto You.",
     "chapter_id": 16,
+    "item_order": 3,
     "reference": "Muslim 1/534"
   },
   {
@@ -2477,6 +2485,7 @@
     "language": "en",
     "item_translation": "O Allah, Lord of Jibraeel, Meekaeel and Israfeel (great angles), Creator of the heavens and the Earth, Knower of the seen and the unseen. You are the arbitrator between Your servants in that which they have disputed. Guide me to the truth by Your leave, in that which they have differed, for verily You guide whom You will to a straight path.",
     "chapter_id": 16,
+    "item_order": 4,
     "reference": "Muslim 1/534"
   },
   {
@@ -2485,6 +2494,7 @@
     "language": "en",
     "item_translation": "O Allah, praise is to You. You are the Light of the heavens and the earth and all that they contain. Praise is to You, You are the Sustainer of the heavens and the earth and all they contain. Praise is to You, You are the Lord of the heavens and the earth and all they contain. Praise is to You, Yours is dominion of the heavens and the earth and all they contain. Praise is to You, You are the King of the heavens and the earth. And praise is to You. You are the Truth, Your Promise is true, Your Word is true, Your audience is true, Paradise is true, Hell is true, the Prophets are true, and Muhammad (peace and blessings be upon him) is true, and the Hour of Judgment is true. O Allah, to You I have submitted, and upon You I depend. I have believed in You and to You I turn in repentance. For Your sake I dispute and by Your standard I judge. Forgive me what I have sent before me and what I have left behind me, what I have concealed and what I have declared. You are the One Who sends forth and You are the One Who delays , there is none who has the right to be worshiped but You. You are my God, there is none who has the right to be worshiped but You.",
     "chapter_id": 16,
+    "item_order": 7,
     "reference": "Al-Bukhari, cf. Al-Asqalani, Fathul-Bari 3/3 , 11/ 116, 13/371, 423, 465. See also Muslim for a shorter account, 1/532."
   },
   {
@@ -4677,6 +4687,7 @@
     "language": "ar",
     "item_translation": "اللَّهُ أَكْبَرُ كَبِيرَاً, اللَّهُ أَكْبَرُ كَبِيراً, اللَّهُ أَكْبَرُ كَبِيراً, وَالْحَمْدُ لِلَّهِ كَثيراً, وَالْحَمْدُ لِلَّهِ كَثيراً, وَالْحَمْدُ لِلَّهِ كَثيراً, وَسُبْحَانَ اللَّهِ بُكْرَةً وَأَصِيلاً \n(ثَلاثاً) ",
     "chapter_id": 16,
+    "item_order": 5,
     "reference": "أخرجه أبو داود، ١/ ٢٠٣، برقم ٧٦٤، وابن ماجه، ١/ ٢٦٥، برقم، ٨٠٧، وأحمد، ٤/ ٨٥، برقم ١٦٧٣٩، وقال شعيب الأرناؤوط في تحقيقه لمسند: ((حسن لغيره))، وقال عبد القادر الأرناؤوط في تخريجه للكلم الطيب لابن تيمية، برقم ٧٨: ((وهو حديث صحيح بشواهده))، وذكره الألباني في صحيح الكلم الطيب، برقم ٦٢، وأخرجه مسلم عن ابن عمر ^ بنحوه، وفيه قصة، ١/ ٤٢٠، برقم ٦٠١."
   },
   {
@@ -4685,6 +4696,7 @@
     "language": "ar",
     "item_translation": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ: مِنْ نَفْخِهِ, وَنَفْثِهِ, وَهَمْزِهِ",
     "chapter_id": 16,
+    "item_order": 6,
     "reference": "أخرجه أبو داود، ١/ ٢٠٣، برقم ٧٦٤، وابن ماجه، ١/ ٢٦٥، برقم، ٨٠٧، وأحمد، ٤/ ٨٥، برقم ١٦٧٣٩، وقال شعيب الأرناؤوط في تحقيقه لمسند: ((حسن لغيره))، وقال عبد القادر الأرناؤوط في تخريجه للكلم الطيب لابن تيمية، برقم ٧٨: ((وهو حديث صحيح بشواهده))، وذكره الألباني في صحيح الكلم الطيب، برقم ٦٢، وأخرجه مسلم عن ابن عمر ^ بنحوه، وفيه قصة، ١/ ٤٢٠، برقم ٦٠١."
   },
   {
@@ -4693,6 +4705,7 @@
     "language": "en",
     "item_translation": "Allah is the Greatest, Most Great. Allah is the Greatest, Most Great. Allah is the Greatest, Most Great. Praise is to Allah, abundantly. Praise is to Allah, abundantly. Praise is to Allah, abundantly. Glory is to Allah, at the break of day and at its end. (Three times)",
     "chapter_id": 16,
+    "item_order": 5,
     "reference": "Abu Dawud 1/203, Ibn Majah 1/265, Ahmad 4/85. Muslim 1/420."
   },
   {
@@ -4701,6 +4714,7 @@
     "language": "en",
     "item_translation": "I seek refuge in Allah from Satan. From his breath and from his voice and from his whisper.",
     "chapter_id": 16,
+    "item_order": 6,
     "reference": "Abu Dawud 1/203, Ibn Majah 1/265, Ahmad 4/85. Muslim 1/420."
   },
   {
