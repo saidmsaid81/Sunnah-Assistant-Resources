@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+repo_root="$(git rev-parse --show-toplevel)"
+meta_file="$repo_root/adhkaar/adhkaar_meta.json"
+
+if ! git diff --cached --name-only | grep -qx "adhkaar/adhkaar.json"; then
+    exit 0
+fi
+
+current_version="0"
+if [ -f "$meta_file" ]; then
+    extracted_version="$(grep -Eo '"version"[[:space:]]*:[[:space:]]*[0-9]+' "$meta_file" | head -n1 | grep -Eo '[0-9]+' || true)"
+    if [ -n "$extracted_version" ]; then
+        current_version="$extracted_version"
+    fi
+fi
+
+next_version="$((current_version + 1))"
+updated_at="$(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+
+cat > "$meta_file" <<JSON
+{
+  "version": $next_version,
+  "updated_at": "$updated_at"
+}
+JSON
+
+git add "$meta_file"
