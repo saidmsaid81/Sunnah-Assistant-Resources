@@ -58,5 +58,25 @@
     "key": "somali_yacob",
     "version": 1,
     "updated_at": "2026-02-17T04:35:11Z"
+  },
+  {
+    "key": "spanish_garcia",
+    "version": 1,
+    "updated_at": "2026-02-17T18:53:49Z"
+  },
+  {
+    "key": "swahili_barawani",
+    "version": 1,
+    "updated_at": "2026-02-17T18:53:49Z"
+  },
+  {
+    "key": "tamil_omar",
+    "version": 1,
+    "updated_at": "2026-02-17T18:53:49Z"
+  },
+  {
+    "key": "urdu_junagarhi",
+    "version": 1,
+    "updated_at": "2026-02-17T18:53:49Z"
   }
 ]
